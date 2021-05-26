@@ -1,0 +1,6 @@
+﻿  Application.cpp
+C:\Users\Andromeda\source\SlotAnalyzer\SlotAnalyzer\src\Application.cpp(53,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andromeda\source\SlotAnalyzer\SlotAnalyzer\src\Application.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andromeda\source\SlotAnalyzer\SlotAnalyzer\src\Application.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andromeda\source\SlotAnalyzer\SlotAnalyzer\src\Application.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+  SlotAnalyzer.vcxproj -> C:\Users\Andromeda\source\SlotAnalyzer\Debug\SlotAnalyzer.exe
